@@ -1,0 +1,94 @@
+﻿2011年
+5月9日 修改 TwoBall585.aspx
+5月17日 修改 GreatBall.aspx
+5月18日 修改 ball.txt
+5月19日 修改 TwoBall585.aspx GreatBall.aspx
+5月20日 修改 TwoBall585.aspx GreatBall.aspx
+5月24日 修改 TwoBall585.aspx GreatBall.aspx
+5月25日 修改 TwoBall585.aspx GreatBall.aspx
+5月26日 修改 TwoBall585.aspx GreatBall.aspx
+6月6日 修改 ball.txt
+6月10日 修改 TwoBall585.aspx
+6月13日 修改 ball.txt TwoBall585.aspx
+6月14日 修改 GreatBall.aspx
+6月21日 修改 GreatBall.aspx
+6月24日 修改 ball.txt TwoBall585.aspx
+6月27日 修改 ball.txt TwoBall585.aspx
+7月3日 修改 ball.txt TwoBall585.aspx
+7月5日 修改 ball.txt TwoBall585.aspx
+7月7日 修改 ball.txt TwoBall585.aspx
+7月7日夜 修改 TwoBall585.aspx
+7月12日 修改 TwoBall585.aspx ball.txt
+7月13日 修改 TwoBall585.aspx ball.txt GreatBall.aspx
+7月14日 修改 TwoBall585.aspx
+7月19日 修改 TwoBall585.aspx ball.txt GreatBall.aspx
+7月26日 修改 TwoBall585.aspx ball.txt GreatBall.aspx
+7月27日 修改 TwoBall585.aspx ball.txt
+7月29日 修改 TwoBall585.aspx ball.txt Test.aspx
+7月30日 修改 TwoBall585.aspx
+8月2日 修改 TwoBall585.aspx ball.txt
+8月3日 修改 TwoBall585.aspx ball.txt
+8月4日 修改 TwoBall585.aspx ball.txt GreatBall.aspx
+8月5日 修改 ball.txt DrowLine.cs
+8月9日 修改 TwoBall585.aspx ball.txt
+8月11日 修改 TwoBall585.aspx ball.txt
+8月12日 修改 TwoBall585.aspx Graph.aspx ball.txt
+8月15日 修改 TwoBall585.aspx Graph.aspx ball.txt
+8月16日 修改 TwoBall585.aspx Graph.aspx
+8月17日 修改 TwoBall585.aspx Graph.aspx ball.txt
+8月19日 修改 TwoBall585.aspx Graph.aspx ball.txt GreatBall.aspx
+8月22日 修改 TwoBall585.aspx Graph.aspx ball.txt GreatBall.aspx
+8月23日 修改 TwoBall585.aspx Graph.aspx GreatBall.aspx
+8月24日 修改 ball.txt GreatBall.aspx
+8月26日 修改 ball.txt
+8月29日 修改 ball.txt
+8月30日 修改 TwoBall585.aspx
+8月31日 修改 ball.txt Graph.aspx
+9月1日 修改 Graph.aspx
+9月2日 修改 ball.txt Graph.aspx
+9月7日 修改 ball.txt TwoBall585.aspx
+9月8日 修改 TwoBall585.aspx GreatBall.aspx
+9月16日 修改 ball.txt
+9月19日 修改 ball.txt
+9月20日 修改 TwoBall585.aspx
+9月21日 修改 ball.txt
+9月30日 修改 ball.txt TwoBall585.aspx
+10月9日 修改 ball.txt TwoBall585.aspx
+10月13日 修改 ball.txt TwoBall585.aspx
+10月19日 修改 ball.txt
+10月20日 修改 TwoBall585.aspx
+10月21日 修改 ball.txt
+10月25日 修改 ball.txt
+10月27日 修改 ball.txt
+11月1日 修改 ball.txt
+11月2日 修改 ball.txt
+11月4日 修改 ball.txt
+11月8日 修改 ball.txt
+11月16日 修改 ball.txt
+11月21日 修改 ball.txt
+11月21日 修改 gogogo
+11月25日 修改 ball.txt
+12月7日 修改 ball.txt
+12月13日 修改 LetGo
+12月14日 修改 LetGo
+12月21日日夜 修改 LetGo
+12月23日 修改 ball.txt
+12月29日 修改 LetGo
+2012年
+5月11日  修改 MyGame.aspx
+5月16日  修改 MyGame.aspx
+5月16日夜修改 MyGame.aspx
+5月17日  修改 MyGame.aspx
+6月1日 修改 MyGame.aspx MyGame.cs
+6月14日 修改 GetGoodNum.aspx
+6月18日 修改 GetGoodNum.aspx 一年了又回到了起点，真有意思，呵呵。
+7月6日 修改 GetGoodNum.aspx ball 我总是以为可以找到一个很牛的规律，其实能找到一个简单的就很不错了。
+7月19日 修改 GetGoodNum.aspx ball 今天还算比较愉快
+7月23日 修改 GetGoodNum.aspx ball 去北京前改改
+8月13日 修改 GetGoodNum.aspx ball 分析30个一组
+8月14日 修改增加twomax功能
+8月16日 修改 ball 修改30分组方式
+8月22日 修改 ball GetGoodNum 昨天又做了白费功，最近又开始茫然了。我们是在分析历史，而不是预测。
+8月24日 修改 ball GetGoodNum 大小间隔有趣的事
+9月29日 修改 ball 真是伤心的一天呢
+11月6日 修改 ball 最近好累啊

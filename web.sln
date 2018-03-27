@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "web", ".", "{8A26FFBA-912E-44CD-B8C3-83AB639B2CCA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{FC12CE31-0418-4B44-A8D6-1694DE5896C9}|HGData.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/web"
+		Debug.AspNetCompiler.PhysicalPath = "..\web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/web"
+		Release.AspNetCompiler.PhysicalPath = "..\web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53995"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HGData", "..\HGData2017\HGData.csproj", "{FC12CE31-0418-4B44-A8D6-1694DE5896C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A26FFBA-912E-44CD-B8C3-83AB639B2CCA}.Debug|.NET.ActiveCfg = Debug|.NET
+		{8A26FFBA-912E-44CD-B8C3-83AB639B2CCA}.Debug|.NET.Build.0 = Debug|.NET
+		{8A26FFBA-912E-44CD-B8C3-83AB639B2CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A26FFBA-912E-44CD-B8C3-83AB639B2CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A26FFBA-912E-44CD-B8C3-83AB639B2CCA}.Release|.NET.ActiveCfg = Debug|.NET
+		{8A26FFBA-912E-44CD-B8C3-83AB639B2CCA}.Release|.NET.Build.0 = Debug|.NET
+		{8A26FFBA-912E-44CD-B8C3-83AB639B2CCA}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{FC12CE31-0418-4B44-A8D6-1694DE5896C9}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{FC12CE31-0418-4B44-A8D6-1694DE5896C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC12CE31-0418-4B44-A8D6-1694DE5896C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC12CE31-0418-4B44-A8D6-1694DE5896C9}.Release|.NET.ActiveCfg = Release|Any CPU
+		{FC12CE31-0418-4B44-A8D6-1694DE5896C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC12CE31-0418-4B44-A8D6-1694DE5896C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HGData>
+  <DBConnection>
+    <Rnnny>
+      <type>System.Data.SqlClient.SqlConnection</type>
+      <conn_string>server='10.18.16.128';uid='sa';password='suyu57501';database='TestNew';enlist=true</conn_string>
+    </Rnnny>
+  </DBConnection>
+  <Path>
+
+  </Path>
+</HGData>

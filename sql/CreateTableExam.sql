@@ -1,0 +1,227 @@
+USE [TestNew]
+GO
+
+/****** Object:  Table [dbo].[TestOutput]    Script Date: 07/09/2015 15:37:06 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[EXAM](
+	[ID] [int] NOT NULL,
+	[FLAG] [int] NULL,
+	[A0] [int] NULL,
+	[A1] [int] NULL,
+	[A2] [int] NULL,
+	[A3] [int] NULL,
+	[A4] [int] NULL,
+	[A5] [int] NULL,
+	[A6] [int] NULL,
+	[A7] [int] NULL,
+	[A8] [int] NULL,
+	[A9] [int] NULL,	
+	[A10] [int] NULL,
+	[A11] [int] NULL,
+	[A12] [int] NULL,
+	[A13] [int] NULL,
+	[A14] [int] NULL,
+	[A15] [int] NULL,
+	[A16] [int] NULL,
+	[A17] [int] NULL,
+	[A18] [int] NULL,
+	[A19] [int] NULL,
+	[A20] [int] NULL,
+	[A21] [int] NULL,
+	[A22] [int] NULL,
+	[A23] [int] NULL,
+	[A24] [int] NULL,
+	[A25] [int] NULL,
+	[A26] [int] NULL,
+	[A27] [int] NULL,
+	[A28] [int] NULL,
+	[A29] [int] NULL,
+	[A30] [int] NULL,
+	[A31] [int] NULL,
+	[A32] [int] NULL,
+	[A33] [int] NULL,
+	[A34] [int] NULL,
+	[A35] [int] NULL,
+	[A36] [int] NULL,
+	[A37] [int] NULL,
+	[A38] [int] NULL,
+	[A39] [int] NULL,
+	[A40] [int] NULL,
+	[B0] [nvarchar](300) NULL,
+	[B1] [nvarchar](300) NULL,
+	[B2] [nvarchar](300) NULL,
+	[B3] [nvarchar](300) NULL,
+	[B4] [nvarchar](300) NULL,
+	[B5] [nvarchar](300) NULL,
+	[B6] [nvarchar](300) NULL,
+	[B7] [nvarchar](300) NULL,
+	[B8] [nvarchar](300) NULL,
+	[B9] [nvarchar](300) NULL,
+	[B10] [nvarchar](300) NULL,
+	[B11] [nvarchar](300) NULL,
+	[B12] [nvarchar](300) NULL,
+	[B13] [nvarchar](300) NULL,
+	[B14] [nvarchar](300) NULL,
+	[B15] [nvarchar](300) NULL,
+	[B16] [nvarchar](300) NULL,
+	[B17] [nvarchar](300) NULL,
+	[B18] [nvarchar](300) NULL,
+	[B19] [nvarchar](300) NULL,
+	[B20] [nvarchar](300) NULL,
+	[B21] [nvarchar](300) NULL,
+	[B22] [nvarchar](300) NULL,
+	[B23] [nvarchar](300) NULL,
+	[B24] [nvarchar](300) NULL,
+	[B25] [nvarchar](300) NULL,
+	[B26] [nvarchar](300) NULL,
+	[B27] [nvarchar](300) NULL,
+	[B28] [nvarchar](300) NULL,
+	[B29] [nvarchar](300) NULL,
+	[B30] [nvarchar](300) NULL,
+	[B31] [nvarchar](300) NULL,
+	[B32] [nvarchar](300) NULL,
+	[B33] [nvarchar](300) NULL,
+	[B34] [nvarchar](300) NULL,
+	[B35] [nvarchar](300) NULL,
+	[B36] [nvarchar](300) NULL,
+	[B37] [nvarchar](300) NULL,
+	[B38] [nvarchar](300) NULL,
+	[B39] [nvarchar](300) NULL,
+	[B40] [nvarchar](300) NULL,	
+	[ROUND] [nvarchar](50) NULL
+) ON [PRIMARY]
+
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A0]  DEFAULT ((0)) FOR [A0]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A1]  DEFAULT ((0)) FOR [A1]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A2]  DEFAULT ((0)) FOR [A2]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A3]  DEFAULT ((0)) FOR [A3]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A4]  DEFAULT ((0)) FOR [A4]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A5]  DEFAULT ((0)) FOR [A5]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A6]  DEFAULT ((0)) FOR [A6]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A7]  DEFAULT ((0)) FOR [A7]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A8]  DEFAULT ((0)) FOR [A8]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A9]  DEFAULT ((0)) FOR [A9]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_FLAG]  DEFAULT ((0)) FOR [FLAG]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A10]  DEFAULT ((0)) FOR [A10]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A11]  DEFAULT ((0)) FOR [A11]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A12]  DEFAULT ((0)) FOR [A12]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A13]  DEFAULT ((0)) FOR [A13]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A14]  DEFAULT ((0)) FOR [A14]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A15]  DEFAULT ((0)) FOR [A15]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A16]  DEFAULT ((0)) FOR [A16]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A17]  DEFAULT ((0)) FOR [A17]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A18]  DEFAULT ((0)) FOR [A18]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A19]  DEFAULT ((0)) FOR [A19]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A20]  DEFAULT ((0)) FOR [A20]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A21]  DEFAULT ((0)) FOR [A21]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A22]  DEFAULT ((0)) FOR [A22]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A23]  DEFAULT ((0)) FOR [A23]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A24]  DEFAULT ((0)) FOR [A24]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A25]  DEFAULT ((0)) FOR [A25]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A26]  DEFAULT ((0)) FOR [A26]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A27]  DEFAULT ((0)) FOR [A27]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A28]  DEFAULT ((0)) FOR [A28]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A29]  DEFAULT ((0)) FOR [A29]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A30]  DEFAULT ((0)) FOR [A30]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A31]  DEFAULT ((0)) FOR [A31]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A32]  DEFAULT ((0)) FOR [A32]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A33]  DEFAULT ((0)) FOR [A33]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A34]  DEFAULT ((0)) FOR [A34]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A35]  DEFAULT ((0)) FOR [A35]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A36]  DEFAULT ((0)) FOR [A36]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A37]  DEFAULT ((0)) FOR [A37]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A38]  DEFAULT ((0)) FOR [A38]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A39]  DEFAULT ((0)) FOR [A39]
+GO
+
+ALTER TABLE [dbo].[EXAM] ADD  CONSTRAINT [DF_EXAM_A40]  DEFAULT ((0)) FOR [A40]
+GO
+
+
